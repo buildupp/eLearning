@@ -1,0 +1,10 @@
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\obj\Debug\BuildUpp.eLearning.Model.csprojResolveAssemblyReference.cache
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\BuildUpp.eLearning.Model.dll.config
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\BuildUpp.eLearning.Model.dll
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\BuildUpp.eLearning.Model.pdb
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\EntityFramework.dll
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\EntityFramework.xml
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\obj\Debug\BuildUpp.eLearning.Model.dll
+D:\Proyectos\SPA\Source\BuildUpp.eLearning\BuildUpp.eLearning.Model\obj\Debug\BuildUpp.eLearning.Model.pdb
